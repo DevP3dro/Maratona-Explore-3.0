@@ -1,0 +1,109 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    background-color:rgba(255, 237, 213, 1);
+    font-family: 'Roboto', serif;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  
+  header h1 {
+  font-family: 'Roboto Serif';
+  font-size: 28px;
+  line-height: 33px;
+    
+  }
+  header p {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: 4px;
+  }
+      
+  header {
+    padding: 32px 0;
+    text-align: center;
+  }
+  header,section {
+    max-width: 300px;
+    margin: 0 auto;
+    }
+  section h2 {
+    background-color: #FED7AA;
+    text-align: center;
+    margin-bottom: 24px;
+    padding: 8px 16px;
+    
+  }
+  ul li {
+    margin-bottom: 16px;
+    display: flex;
+  }
+  li .description {
+    max-width: 240px;
+  }
+  section {
+    margin-bottom: 24px;
+  }
+  span {
+    color: #995000;
+  }
+  h1, h2, h3, .price {
+      font-family:'Roboto Serif',serif;
+      color: #2D2C2A;
+      text-transform: uppercase;
+  }
+  h2 {
+      font-size: 18px;
+      
+    }
+  .description {
+    margin-top: 8px;
+    color: rgba(0, 0, 0, 0.6);
+    font-family: 'Roboto', serif; 
+    line-height: 21px;
+  }
+  h3 {
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(45, 44, 42, 1);
+  }
+  
+      
+  
+    
+  
+    
+  
+  
+  
+  
+  
+    
+    
+  
+  
+     
+  
+  
+    
+  
+  
+    
+   
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
